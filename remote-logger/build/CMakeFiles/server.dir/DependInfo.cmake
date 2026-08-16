@@ -1,0 +1,25 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/tushar/Desktop/Dev/DC-ASS-2/remote-logger/rpc/rpc.cpp" "CMakeFiles/server.dir/rpc/rpc.cpp.o" "gcc" "CMakeFiles/server.dir/rpc/rpc.cpp.o.d"
+  "/home/tushar/Desktop/Dev/DC-ASS-2/remote-logger/server/logger_service.cpp" "CMakeFiles/server.dir/server/logger_service.cpp.o" "gcc" "CMakeFiles/server.dir/server/logger_service.cpp.o.d"
+  "/home/tushar/Desktop/Dev/DC-ASS-2/remote-logger/server/server.cpp" "CMakeFiles/server.dir/server/server.cpp.o" "gcc" "CMakeFiles/server.dir/server/server.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

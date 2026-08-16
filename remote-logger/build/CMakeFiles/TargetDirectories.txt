@@ -1,0 +1,4 @@
+/home/tushar/Desktop/Dev/DC-ASS-2/remote-logger/build/CMakeFiles/server.dir
+/home/tushar/Desktop/Dev/DC-ASS-2/remote-logger/build/CMakeFiles/client.dir
+/home/tushar/Desktop/Dev/DC-ASS-2/remote-logger/build/CMakeFiles/edit_cache.dir
+/home/tushar/Desktop/Dev/DC-ASS-2/remote-logger/build/CMakeFiles/rebuild_cache.dir
